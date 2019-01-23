@@ -8,12 +8,12 @@
 
 ### Fastest way to verify whether the number has been used before
 
-Array vs List.Contains vs Dictionary vs HashSet
+- Array vs List.Contains vs Dictionary vs HashSet
 
 ### Don't over engineer the solution
 
-	- No requirements for format, security, encryption or compression of saved data
-	- Several 'utility' functions that could be refactored into utility libraries for greater reuse
+ - No requirements for format, security, encryption or compression of saved data
+ - Several 'utility' functions that could be refactored into utility libraries for greater reuse
 
 ### Could make it a static class
 
